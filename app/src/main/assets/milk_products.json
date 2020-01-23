@@ -1,0 +1,46 @@
+{
+  "menuFoodAdulteration": [
+    {
+      "title" : "Milk and Milk Products",
+      "img" : "milk",
+      "src" : "milk_products"
+    },
+    {
+      "title" : "Oils and Fats",
+      "img" : "oils",
+      "src" : "oils"
+    },
+    {
+      "title" : "Sugars and Confectionery",
+      "img" : "sugars"
+    },
+    {
+      "title" : "Salts, Spices and Condiments",
+      "img" : "spices"
+    },
+    {
+      "title" : "Fruits and Vegetables",
+      "img" : "fruits"
+    },
+    {
+      "title" : "Beverages",
+      "img" : "beverages"
+    }
+  ],
+
+  "milk_products": [{
+    "title": "Detection of water in milk",
+    "steps": " \t1. Put a drop of milk on a polished slanting surface \n \t2. Pure milk either stays or flows slowly leaving a white trail behind \n \t3. Milk adultrated with water will flow immediately without leaving a mark",
+    "imageSuccess": "milk_t1",
+    "imageFailure": "milk_f1"
+  },{
+    "title": "Detection of water in milk",
+    "steps": " \t1. Take 5 to 10mI of sample with an equal amount of water. \n \t2. Shake the contents thoroughly. \n \t3. If milk is adulterated with detergent, it forms dense lather. \n \t4. Pure milk will form very thin foam layer due to agitation.",
+    "imageSuccess": "milk_t1",
+    "imageFailure": "milk_f1"
+  }
+    ]
+
+
+
+}
